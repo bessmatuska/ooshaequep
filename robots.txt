@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deocaejeix.telsocket.org/sitemap.xml
